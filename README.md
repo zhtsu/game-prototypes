@@ -1,2 +1,2 @@
-# game-mechanics
-Implementation of various game mechanics in Godot
+# game-prototypes
+Implementation of various game prototypes in Godot
